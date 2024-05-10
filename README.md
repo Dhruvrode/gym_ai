@@ -1,4 +1,4 @@
-# AI Workout Wwebsite
+# AI Workout Website
 
 <p align="center">
   <img src="public/demo.png" />
