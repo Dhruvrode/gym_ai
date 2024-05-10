@@ -1,4 +1,4 @@
-# AI Workout Wizard
+# AI Workout Wwebsite
 
 <p align="center">
   <img src="public/demo.png" />
@@ -27,6 +27,4 @@ A project to generate your weekly workout plan with either OpenAI GPT model or G
 - OpenAI GPT Model
 - Google PaLM Model
 
-## Contact
 
-mohdejazsiddiqui@gmail.com
